@@ -1,0 +1,17 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# env
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# data
+data/
+
+.DS_Store
+*.swp

@@ -1,0 +1,9 @@
+[project]
+name = "arc"
+version = "0.1.0"
+description = "arc solution attempt with an ensemble of ps and ttft"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "numpy>=2.3.3",
+]
