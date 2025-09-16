@@ -1,0 +1,6 @@
+paths:
+  data: data
+  arc: data/arc
+  rearc: data/rearc
+  barc: data/barc
+  carc: data/carc
