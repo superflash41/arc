@@ -11,7 +11,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # data
-data/
+# data/
 
 .DS_Store
 *.swp
